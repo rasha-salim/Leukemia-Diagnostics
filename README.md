@@ -9,3 +9,12 @@ https://www.kaggle.com/lsaa2014/single-cell-morphological-dataset-of-leukocytes
 I was successful to reach 94% accuracy after less than 9 hours training. But I believe with more data we'll have a better distribution of classes (some of the classes had less samples than others by fairly large amount), we can have a much better accuracy in addition to training for extra hours, which something I couldn't do depending on my laptop GPU capabilities.
 
 Please feel free to use this work for it is a work of a beginner and enthusiast who is eager to  contribute implementing AI for good causes
+
+This work would not be completed without the contributions of:
+Jordi F.
+Deepak Mehra
+Slaure
+Danielle L. Taneyo S.
+Thanks for Your work and motivation.
+
+
