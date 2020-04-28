@@ -14,6 +14,7 @@
 - Also better fine tunning could also result in a btter training whic is something I encourage you all to do.
 
 - Please feel free to use this work for it is a work of a beginner and enthusiast who is eager to  contribute implementing AI for good causes
+- The project was implemented in Kaggle notebooks. So if you were planning to implement it else where you'll have to downlod the data and change the file patrh for the data loader directory.
 
 - This work would not be completed without the contributions of:
     Jordi F.
