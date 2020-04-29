@@ -1,5 +1,5 @@
 # Leukemia-Diagnostics
-- This project is a small contribute by me for as part of the effort by AI in medical science studey group to create an optimal diagnosis for leukemia.
+- This project is a small contribution and part of the effort by AI in medical science studey group to create an optimal diagnosis for leukemia.
 
 - This work is based on the following paper: https://www.biorxiv.org/content/10.1101/564039v1.full.pdf
 
